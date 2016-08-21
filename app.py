@@ -1,7 +1,7 @@
 #!/usr/bin/env python 
 # Kevin Lizarazo
 # 2016-06-29
-# Tribune Route processor
+# QT/P Route processor
 
 import os
 import csv

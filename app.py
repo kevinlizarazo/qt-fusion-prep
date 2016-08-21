@@ -9,10 +9,6 @@ import csv
 path = 'CSV/'
 files = os.listdir(path) 
 
-#user_input = raw_input('Please enter a filename, no suffix: ')
-
-
-#fh = open('CSV/' + user_input + '.csv', 'rB')
 for file in files[1:]:
     route_list = ['address,name,placement,draw,marker \n']
     route_object = ''
